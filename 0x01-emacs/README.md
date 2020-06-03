@@ -1,0 +1,1 @@
+command to open file from emacs
