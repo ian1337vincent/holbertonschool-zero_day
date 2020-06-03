@@ -1,1 +1,7 @@
-command to open file from emacs
+commands for emacs
+saving
+cutting
+pasting
+searching
+undoing
+quitting
